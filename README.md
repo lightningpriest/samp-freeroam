@@ -4,14 +4,16 @@
   
 <div align="center">Project Freeroam is a Freeroam Gamemode made for <a href="https://www.sa-mp.com/">San Andreas Multiplayer</a></div>  
 <div align="center">This project is started from scratch and take a time 1 month to be completed, this script is very basically and easy to learn.</div>  
-<div align="center">You can host-self this gamemode but, respect the license, and do not remove any credits from the file.</div>  
+<div align="center">You can self-host this gamemode but, respect the license, and do not remove any credits from the file.</div>  
   
   
   
 ### Setup     
-* Import the database to your phpMyAdmin  
-* Compile the gamemode  
-* Run the server 
+* Import the database to your phpMyAdmin.  
+* Install all dependencies listed below.  
+* Configure the MySQL Settings. [View](https://github.com/rizzyneck/SAMP-Project-Freeroam/blob/main/Freeroam.pwn#L30)  
+* Compile the gamemode.  
+* Run the server. 
   
 ### Dependencies  
 | Name | Version | URL |
